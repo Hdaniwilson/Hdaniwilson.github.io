@@ -1,11 +1,11 @@
 # Site settings
 author: Heather Wilson
-title: 
+title: Changing my world through coding... and many many snacks! 
 header-img: img/home-bg.png
 email: hdaniwilson@gmail.com
 copyright_name: Heather Wilson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Changing my world through coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Hdaniwilson
